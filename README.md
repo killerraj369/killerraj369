@@ -22,8 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/killerraj369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="killerraj369" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vaibhav-raj-229967218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav raj" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/killer_x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="killer_x" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vaibhav-229967218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav raj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/killerraj369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="killerraj369" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/killerraj369/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="killerraj369/profile" height="30" width="40" /></a>
 <a href="https://discord.gg/djalok1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="djalok1" height="30" width="40" /></a>
