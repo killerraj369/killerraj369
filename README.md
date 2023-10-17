@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Development,Data Structures & Algorithms**
 
-- 📫 How to reach me **vaibhavkumar15382@gmail.com**
+- 📫 How to reach me **vaibhav_it20b11_39@dtu.ac.in**
 
 - ⚡ Fun fact **I think I am funny 😄**
 
